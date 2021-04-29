@@ -1,8 +1,8 @@
 # task2
 
-PROBLEM STATEMENT:-
+PROBLEM STATEMENT
 
-DESCRIPTION OF THE TASK PROCESS:-
+DESCRIPTION OF THE TASK PROCESS
 
 1. Create a container image that’s has Jenkins installed using Dockerfile.
 
@@ -20,6 +20,6 @@ Job4: If the app is not working, then send an email to the developer with error 
 
 Job5: Create this extra job for monitor. If this container where the app is running fails due to any reason then this job should automatically re-start the container.
 
-DETAILED SOLUTION :-
+DETAILED SOLUTION 
 
 https://snehakothavenkat.blogspot.com/2020/07/integration-of-git-jenkins-and-docker.html
